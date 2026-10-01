@@ -30,7 +30,7 @@ My guiding principle is fairly simple:
 
 An experimental optimization engine exploring a geometric/topological approach to difficult search spaces.
 
-Originally developed against combinatorial optimization problems, **Pairwolf** has since been pushed into increasingly different domains — from QAP benchmarks and multi-objective neural architecture search to large-scale unit commitment and energy optimization.
+Originally developed against combinatorial optimization problems, **Pairwolf** has since been pushed into increasingly different domains — from QAPlib and MaxSAT to EvoxBench and PGLibUC. A predator indeed.
 
 The interesting question isn't merely whether an optimizer can find a solution.
 
